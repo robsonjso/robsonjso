@@ -1,7 +1,3 @@
-Hello ! Im Robson Santos. 👋 
-
-
-
 # 💫 About Me:
 
 <h1>Hello ! Im Robson Santos. 👋</h1><br>🔭 Mobile Software Developer sharing about my journey and learnings in tech<br>🌱 Learning kotlin, java, android SDK, flutter and python in relax hours<br>💬 Im brazilian lives in Spain with very dreams.<br>
