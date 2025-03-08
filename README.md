@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h1>Hello ! Im Robson Santos. 👋</h1><br>🔭 Mobile Software Developer sharing about my journey and learnings in tech<br>🌱 Learning kotlin, java, android SDK, flutter and python in relax hours<br>💬 Im brazilian lives in Spain with very dreams.<br>
+<h1>Hello ! Im Robson Santos. 👋</h1><br>🔭 Mobile Software Developer sharing about my journey and learnings in tech<br>🌱 Learning kotlin, java, python in relax hours<br>💬 Im brazilian living in Spain with very dreams.<br>
 
 [![](https://visitcount.itsvg.in/api?id=robsonjso&icon=0&color=0)](https://visitcount.itsvg.in)
 
